@@ -1,0 +1,14 @@
+TAX INVOICE
+Vendor: Lagos Office Supplies Ltd
+Invoice No: LOS/2026/0097
+Date: 14th September 2026
+Bill To: NIIT Lagos
+ 
+Item                    Qty   Unit Price
+A4 Paper (ream)         20    NGN 4,500
+Stapler                 5     NGN 3,200
+Whiteboard markers      12    NGN 800
+ 
+Subtotal: NGN 115,600
+VAT 7.5%: NGN 8,670
+TOTAL: NGN 124,270
